@@ -1,0 +1,62 @@
+.lore-text{
+    color: grey;
+}
+.lore-text-second{
+    color: grey;
+}
+.lore-text-third{
+    color: grey;
+}
+.lore-text-four{
+    color: grey;
+}
+.quas-head{
+    color: blue;
+
+}
+.wex-head{
+    color:palevioletred ;
+}
+.exort-head{
+    color: orange;
+
+}
+.quas-text{
+    color: blue;
+}
+.wex-text{
+    color: palevioletred;
+}
+.exort-text{
+    color: orange;
+}
+.cold-snap{
+    color:blue ;
+}
+.ghost-walk{
+    color: rgb(71, 5, 114);
+}
+.ice-wall{
+    color: rgb(13, 94, 216);
+}
+.emp{
+    color: rgb(255, 54, 221);
+}
+.tornado{
+    color: blueviolet;
+}
+.alacrity{
+    color: rgb(255, 0, 149);
+}
+.sunstrike{
+    color: yellow;
+}
+.forge-spirit{
+    color: rgb(131, 118, 2);
+}
+.chaos-meteor{
+    color: rgb(255, 206, 70);
+}
+.deafening-blast{
+    color: rgb(255, 0, 76);
+}
